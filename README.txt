@@ -1,49 +1,14 @@
-Nome: INMET_Downloader
-Desenvolvido em: 18/03/2015
-
-Sobre: Este software facilita o download de dados hidrológicos disponibilizados na plataforma INMET. O site é administrado pelo governo brasileiro.
-O software foi desenvolvido pelo Grupo de Pesquisa e Modelagem Hidroambiental e Ecotecnologias da Universidade Federal de Santa Maria.
-
-Antes de executar o código você deve:
-1 - Instalar o software RStudio;
-2 - Criar um arquivo .txt com o código das estações do INMET. Os códigos das estações devem ser 
-de forma seguencial um a um separados apenas por um ENTER como o exemplo abaixo:
-
-82336
-82240
-82361
-83364
-83358
-83676
-
-3 - Abrir o código do INMET_Downloader;
-4 - Executr o codigo aberto (Ctrl + Shift + Enter);
-5 - Abrir o local do arquivo do TXT com os códigos das estações;
-	- Escolher o período de registro dos dados, informando a data inicial e a data final no formato DD/MM/AAAA. (OBS.: Sempre dar duplo ENTER após digitar os dados);
-	- Informar o usuario do INMET e a senha;
-	- Escolher o diretório de saída;
-6 - PRONTO! Buscar as estações no diretório de saída.
-
-
-
-Autores: Jean Ricardo Favaretto, Paola Liberalesso Dimperio, Daniel Gustavo Allasia, Debora Missio Bayer, 
-Vitor Gustavo Gueler e Jessica Ribeiro Fontoura
-
-Contato: paolaliberalesso.d@gmail.com. 
-
-----------------------English----------------------------
-
 Name:INMET_Downloader
 Developed in: 18/03/2015
 
 ABOUT: This software facilitates the download of hydrological data available at the website INMET. The website is administrated by the Brazilian government. 
 The software was developed by the Research Group and Hydro Environmental Modeling and Ecotecnologies at the University Federal of Santa Maria.   
 
-
 Before running de code you must:
 1 - Instal RStudio software;
 2 - Criate a .txt file with the INMET station code. The station codes shall be 
 in a sequential way one by one separated only by an ENTER as the exemple:
+
 82336
 82240
 82361
@@ -65,3 +30,36 @@ Autors: Jean Ricardo Favaretto, Paola Liberalesso Dimperio, Daniel Gustavo Allas
 Vitor Gustavo Gueler e Jessica Ribeiro Fontoura
 
 Contact: paolaliberalesso.d@gmail.com
+
+-----------------------------------------PORTUGUESE---------------------------------------------------------
+Nome: INMET_Downloader
+Desenvolvido em: 18/03/2015
+
+Sobre: Este software facilita o download de dados hidrolÃ³gicos disponibilizados na plataforma INMET. O site Ã© administrado pelo governo brasileiro.
+O software foi desenvolvido pelo Grupo de Pesquisa e Modelagem Hidroambiental e Ecotecnologias da Universidade Federal de Santa Maria.
+
+Antes de executar o cÃ³digo vocÃª deve:
+1 - Instalar o software RStudio;
+2 - Criar um arquivo .txt com o cÃ³digo das estaÃ§Ãµes do INMET. Os cÃ³digos das estaÃ§Ãµes devem ser 
+de forma seguencial um a um separados apenas por um ENTER como o exemplo abaixo:
+
+82336
+82240
+82361
+83364
+83358
+83676
+
+3 - Abrir o cÃ³digo do INMET_Downloader;
+4 - Executr o codigo aberto (Ctrl + Shift + Enter);
+5 - Abrir o local do arquivo do TXT com os cÃ³digos das estaÃ§Ãµes;
+	- Escolher o perÃ­odo de registro dos dados, informando a data inicial e a data final no formato DD/MM/AAAA. (OBS.: Sempre dar duplo ENTER apÃ³s digitar os dados);
+	- Informar o usuario do INMET e a senha;
+	- Escolher o diretÃ³rio de saÃ­da;
+6 - PRONTO! Buscar as estaÃ§Ãµes no diretÃ³rio de saÃ­da.
+
+
+Autores: Jean Ricardo Favaretto, Paola Liberalesso Dimperio, Daniel Gustavo Allasia, Debora Missio Bayer, 
+Vitor Gustavo Gueler e Jessica Ribeiro Fontoura
+
+Contato: paolaliberalesso.d@gmail.com. 
